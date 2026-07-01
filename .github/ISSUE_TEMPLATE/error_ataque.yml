@@ -1,0 +1,36 @@
+name: Reportar fallo en un ataque
+description: Si un movimiento no hace lo que debería.
+title: "Incorrecto Ataque {{ nombre_es }} - {{ nombre_en }}"
+labels: ["bug", "Moves"]
+body:
+  - type: input
+    id: nombre_es
+    attributes:
+      label: Nombre del ataque en español
+      placeholder: Ej. Maquinación
+    validations:
+      required: true
+
+  - type: input
+    id: nombre_en
+    attributes:
+      label: Nombre del ataque en inglés
+      placeholder: Ej. Nasty Plot
+    validations:
+      required: true
+
+  - type: textarea
+    id: deberia_funcionar
+    attributes:
+      label: ¿Cómo debería funcionar?
+      placeholder: Ej. Sube +2 el ataque especial del usuario.
+    validations:
+      required: true
+
+  - type: textarea
+    id: como_funciona
+    attributes:
+      label: ¿Cómo funciona?
+      placeholder: Ej. Sube +2 el ataque especial del rival.
+    validations:
+      required: true
