@@ -1,0 +1,32 @@
+name: Reportar fallo en una habilidad 
+description: Si una habilidad hace lo que debería.
+title: "Incorrecta Habilidad {{ nombre_es }} - {{ nombre_en }}"
+labels: ["bug", "Abilities"]
+body:
+  - type: input
+    id: nombre_es
+    attributes:
+      label: Nombre de la habilidad en español
+    validations:
+      required: true
+
+  - type: input
+    id: nombre_en
+    attributes:
+      label: Nombre de la habilidad en inglés
+    validations:
+      required: true
+
+  - type: textarea
+    id: deberia_funcionar
+    attributes:
+      label: ¿Cómo debería funcionar?
+    validations:
+      required: true
+
+  - type: textarea
+    id: como_funciona
+    attributes:
+      label: ¿Cómo funciona?
+    validations:
+      required: true
