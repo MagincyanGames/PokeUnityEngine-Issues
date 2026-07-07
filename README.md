@@ -3,6 +3,9 @@
 ## Alfa Triataque 0.1
 ### Alfa Triataque 0.1.8
 #### Bugs solucionados
+- No funcionan los ataques de categoría de estado
+### Alfa Triataque 0.1.8
+#### Bugs solucionados
 - [Has perdido ganes o pierdas y el host nunca ve la pantalla](https://github.com/MagincyanGames/PokeUnityEngine-Issues/issues/18)
 ### Alfa Triataque 0.1.3 ~ 0.1.7
 #### Bugs solucionados
