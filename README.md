@@ -1,7 +1,7 @@
 # PokeUnityEngine-Issues
 
 ## Alfa Triataque 0.1
-### Alfa Triataque 0.1.8
+### Alfa Triataque 0.1.9
 #### Bugs solucionados
 - Bug con Golpe Bajo - Sucker Punch
 - [Incorrecto Ataque Hoja mágica](https://github.com/MagincyanGames/PokeUnityEngine-Issues/issues/31)
