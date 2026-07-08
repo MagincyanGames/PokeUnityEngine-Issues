@@ -3,6 +3,7 @@
 ## Alfa Triataque 0.1
 ### Alfa Triataque 0.1.9
 #### Bugs solucionados
+- [Bug con la habilidad Robustez](https://github.com/MagincyanGames/PokeUnityEngine-Issues/issues/35)
 - Bug con Golpe Bajo - Sucker Punch
 - [Incorrecto Ataque Hoja mágica](https://github.com/MagincyanGames/PokeUnityEngine-Issues/issues/31)
 - No funcionan los ataques de categoría de estado
