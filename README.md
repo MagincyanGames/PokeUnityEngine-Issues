@@ -3,6 +3,7 @@
 ## Alfa Triataque 0.1
 ### Alfa Triataque 0.1.9
 #### Bugs solucionados
+- Bug Golpe Cuerpo - Body Slam
 - [Bug Defensa Férrea - Iron Defense](https://github.com/MagincyanGames/PokeUnityEngine-Issues/issues/28)
 - [Bug con la habilidad Robustez](https://github.com/MagincyanGames/PokeUnityEngine-Issues/issues/35)
 - Bug con Golpe Bajo - Sucker Punch
