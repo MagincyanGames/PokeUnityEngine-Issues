@@ -1,6 +1,9 @@
 # PokeUnityEngine-Issues
 
 ## Alfa Triataque 0.1
+### Alfa Triataque 0.1.10
+#### Cambios
+- Se han cambiado los iconos de los efectos de estado
 ### Alfa Triataque 0.1.9
 #### Bugs solucionados
 - Bug Pantalla Humo - Smoke Screen
