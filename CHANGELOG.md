@@ -1,3 +1,10 @@
+## Unreleased / New Release: v0.1.12 (2026-07-15)
+
+## What's Changed
+* Solucionado: Final de combate crashea
+
+**Full Changelog**: https://github.com/MagincyanGames/PokeUnityEngine/compare/v0.1.11...v0.1.12
+
 ## Unreleased / New Release: v0.1.11 (2026-07-13)
 
 ## What's Changed
